@@ -1,2 +1,2 @@
 # law-firm-website
-Front-end design of law firm website
+Front-end and database desgn of law firm website
